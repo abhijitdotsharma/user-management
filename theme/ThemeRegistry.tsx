@@ -18,10 +18,10 @@ const themeOptions: ThemeOptions = {
     fontFamily: roboto.style.fontFamily,
   },
   palette: {
-    background: {
-      // pink
-      default: '#00FF00',
-    },
+    // background: {
+    //   // pink
+    //   default: '#00FF00',
+    // },
   },
 }
 
